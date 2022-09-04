@@ -1,1 +1,1 @@
-This shows how tochange usr using chown
+Display current user
