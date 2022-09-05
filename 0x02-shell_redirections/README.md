@@ -1,1 +1,1 @@
-Reprensatation diagram of confused smiley
+display contents of /etc/passwd
